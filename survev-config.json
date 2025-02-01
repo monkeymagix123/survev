@@ -6,7 +6,7 @@
     "regions": {
         "na": {
             "https": true,
-            "address": "na.survev.io:8001",
+            "address": "test-survev.onrender.com:3000",
             "l10n": "index-north-america"
         }
     },
