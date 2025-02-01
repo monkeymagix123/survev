@@ -1,0 +1,14 @@
+{
+    "apiKey": "j0wo7RY0pYgD6W2mEy2wLa7VE4olUPD1r2hZma8FU6o=",
+    "gameServer": {
+        "apiServerUrl": "https://survev.io"
+    },
+    "regions": {
+        "na": {
+            "https": true,
+            "address": "https://test-survev.onrender.com/",
+            "l10n": "index-north-america"
+        }
+    },
+    "thisRegion": "na"
+}
